@@ -20,7 +20,6 @@
 <!--Intro start-->
 <h3 align="center">A passionate frontend developer born in Colombia Living in US</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cssamgil" alt="cssamgil" /></a> </p>
 
 - 🔭 I’m currently working on **AWS Certification**
 
