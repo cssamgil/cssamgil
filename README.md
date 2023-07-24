@@ -18,14 +18,14 @@
 
 
 <!--Intro start-->
-<h3 align="center">A passionate frontend developer born in Colombia Living in US</h3>
+<h3 align="center">A passionate Computer Scientist born in Colombia Living in US</h3>
 
 
 - 🔭 I’m currently working on **AWS Certification**
 
-- 🌱 I’m currently learning **Cloud Practitioner**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **Figma & CSS**
+- 💬 Ask me about **frontend design**
 
 - 📫 How to reach me **cssamgil@gmail.com**
 
