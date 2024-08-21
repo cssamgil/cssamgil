@@ -18,14 +18,14 @@
 
 
 <!--Intro start-->
-<h3 align="center">A passionate Computer Scientist. Born in Colombia, Living in US</h3>
+<h3 align="center">A passionate Computer Scientist. Born in Colombia, Living in the US</h3>
 
 
-- 🔭 I’m currently working on **AWS Certification**
+- 🔭 I’m currently working at **FAU**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently working as **Systems Analyst**
 
-- 💬 Ask me about **frontend design**
+- 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **cssamgil@gmail.com**
 
