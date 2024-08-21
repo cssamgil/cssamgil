@@ -9,14 +9,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-
 <!--Intro start-->
 <h3 align="center">A passionate Computer Scientist. Born in Colombia, Living in the US</h3>
 
